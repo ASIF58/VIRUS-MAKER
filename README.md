@@ -9,9 +9,9 @@
 $ apt update && apt upgrade
 $ apt install git
 $ pkg install python
-$ git clone https://github.com/TSMaitry/VirusX.git
+$ https://github.com/ASIF58/VIRUS-MAKER
 $ cd VirusX
-$ chmod +x VirusX.py
+$ chmod +x VIRUS-MAKER
 $ python2 VirusX.py
 ```
 **Type "run" to download virus.**
